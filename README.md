@@ -30,3 +30,9 @@ git pull
 ```bash
 git checkout branch-name
 ```
+
+## Rebase
+takes changes from branch named branch-name 
+```bash
+git rebase branch-name
+```
